@@ -1,0 +1,7 @@
+{
+  "name": "HeartToHeart Parenting",
+  "description": "A warm, AI-powered parenting assistant providing consultation, developmental assessments, and behavioral solutions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
